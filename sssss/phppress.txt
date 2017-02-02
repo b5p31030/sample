@@ -1,0 +1,29 @@
+Linux
+Apache
+PHP
+MySQL
+Wordpress
+
+PHP
+HP→http://php.net/
+製品の特徴　
+→Webでしか使わないサーバーサイドスクリプト言語
+→日本でも古くから利用されており、日本語のリファレンスが多い
+→オブジェクト指向
+最新版→7.1.1
+初期の開発者→ラスマス・ラードフ氏　最初のバージョンであるPHP/FIの開発者
+利用条件　　→　PHPライセンスの著作権が明記されること。　　「PHP」という語句をいかなる二次的著作物(derivative works)の名称に含めないこと。　　ソースコードが再配布されるいかなる方法においても以下の表示を含むこと。　　　This product includes PHP, freely available from http://www.php.net/
+ライセンス　→オープンソース なライセンスでリリースされているため、商用・個人用途を問わず自由に使用することができます。
+ソースコード→http://www.php.net/downloads.php
+
+WordPress
+HP→https://ja.wordpress.com/
+製品の特徴　
+→オープンソースのブログソフトウェア
+→基本的な動作はコーディングしなくても実装できる
+→スクリプトはPHPで動作する
+最新版4.7.1
+初期の開発者→マット・マレンウェッグ
+ソースコード→https://github.com/WordPress/WordPress
+ライセンス　→GPL　https://ja.wordpress.org/gpl/
+https://ja.wordpress.com/tos/
